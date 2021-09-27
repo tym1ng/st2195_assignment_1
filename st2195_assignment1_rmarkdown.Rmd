@@ -1,0 +1,14 @@
+---
+title: "st2195_assignment1_rmarkdown"
+author: "tym1ng"
+date: "9/28/2021"
+output: html_document
+---
+
+## Printing integers from (1-10) using a for loop in R Markdown format
+```{r}
+    
+for(a in 1:10)
+  cat(a, "\n")
+
+```
