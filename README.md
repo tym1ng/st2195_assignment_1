@@ -1,4 +1,4 @@
-# st2195_assignment_ 
+# st2195_assignment_1
 creating a folder called "r_studio" with a R-studio project containg a R script that prints all integer between 1-10 \
 \
 creating a folder called "spyder" with a Spyder project containing a Python script that prints all integer between 1-10\
